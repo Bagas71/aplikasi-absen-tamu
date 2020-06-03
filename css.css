@@ -1,0 +1,12 @@
+html, body{
+	overflow-x: hidden;
+	background-color:#ecf0f1;
+	background-image: url("img/background.png");
+	background-color: rgba(0,0,0,.4);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100%;
+}
+.thead{
+	background-color: #ffc107;	
+}
